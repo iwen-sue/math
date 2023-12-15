@@ -6,7 +6,6 @@ def calculate_time(n):
             time += 6 * k
     return time
 
-
 def fsm(input_string):
     try:
         count = 0
